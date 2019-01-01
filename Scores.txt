@@ -1,0 +1,5 @@
+test999:125
+test5:75
+test55:50
+scoretest2:25
+scoreteset70:25
