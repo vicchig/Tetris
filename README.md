@@ -13,10 +13,10 @@ This remake features a different graphics style, a destruction effect for when a
 ##Screenshots
 
 ![Menu](./Screenshots/Menu.png)</br>
-*Main Menu*<\rb>
+*Main Menu*
 
 ![Main Game](./Screenshots/TetrisGame.png)</br>
-*Main Game Screen*<\rb>
+*Main Game Screen*
 
 ![](./Screenshots/RowDestroyed.png)</br>
-*Row Destruction Effect*<\rb>
+*Row Destruction Effect*
